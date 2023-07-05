@@ -1,9 +1,9 @@
 var canvas = document.getElementById("space");
 var context = canvas.getContext("2d");
-var imgwidth = 600;
-var imgheight = 500;
-var imgX = 500;
-var imgY = 350;
+var imgwidth = 1000;
+var imgheight = 700;
+var imgX = 0;
+var imgY = 0;
 var IMG;
 var newIMG;
 
